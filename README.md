@@ -20,4 +20,4 @@ Built for swing traders who want clarity, automation, and edge.
 
 ## 📬 Contact
 Want early access or custom strategy tuning?  
-Email: `your@email.com`
+Email: `rolleterry101@gmail.com`
